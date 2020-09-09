@@ -3,7 +3,7 @@
   <groupId>com.facebook.react</groupId>
   <artifactId>react-native-immersive</artifactId>
   <versioning>
-    <release>2.0.0-jitsi-5335236</release>
+    <release>2.0.0-jitsi-5335331</release>
     <versions>
       <version>2.0.0-jitsi-5283350</version>
       <version>2.0.0-jitsi-5284259</version>
@@ -33,7 +33,8 @@
       <version>2.0.0-jitsi-5334837</version>
       <version>2.0.0-jitsi-5334980</version>
       <version>2.0.0-jitsi-5335236</version>
+      <version>2.0.0-jitsi-5335331</version>
     </versions>
-    <lastUpdated>20200909111120</lastUpdated>
+    <lastUpdated>20200909112643</lastUpdated>
   </versioning>
 </metadata>
